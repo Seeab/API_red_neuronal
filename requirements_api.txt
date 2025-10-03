@@ -1,4 +1,4 @@
-# requirements_api.txt - OPTIMIZADO para Python 3.10
+# requirements_api.txt - Para Python 3.10
 fastapi==0.104.1
 uvicorn==0.24.0
 tensorflow-cpu==2.13.0
