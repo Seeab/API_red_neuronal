@@ -1,7 +1,7 @@
-# requirements_api.txt - Para TensorFlow 2.15.0
+# requirements_api.txt - Para TensorFlow 2.16.1
 fastapi==0.104.1
 uvicorn==0.24.0
-tensorflow-cpu==2.15.0
+tensorflow-cpu==2.16.1
 scikit-learn==1.5.0
 pandas==2.2.1
 numpy==1.26.4
