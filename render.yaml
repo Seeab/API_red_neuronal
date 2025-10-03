@@ -3,5 +3,6 @@ services:
     name: neural-network-api
     env: python
     plan: free
+    runtime: python 3.10.12
     buildCommand: pip install -r requirements_api.txt
     startCommand: python api_neural_network.py
