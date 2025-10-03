@@ -1,9 +1,9 @@
-# requirements_api.txt - Para Python 3.10
+# requirements_api.txt - Versiones más compatibles
 fastapi==0.104.1
 uvicorn==0.24.0
 tensorflow-cpu==2.13.0
 scikit-learn==1.2.2
 pandas==1.5.3
-numpy==1.24.3
+numpy==1.23.5
 python-multipart==0.0.6
 gunicorn==21.2.0
