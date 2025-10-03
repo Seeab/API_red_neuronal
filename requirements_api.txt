@@ -1,5 +1,5 @@
-# requirements_api.txt - Para Python 3.11 en Docker
-fastapi==0.104.1
+# requirements_api.txt - Versiones compatibles
+fastapi==0.100.0
 uvicorn==0.24.0
 tensorflow-cpu==2.13.0
 scikit-learn==1.3.2
